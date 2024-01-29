@@ -10,7 +10,7 @@ INSTALLATION:-
 
 2. Go to the folder that has that lift skin of your liking.
 
-3. Copy the folders 'Data' and 'Survival'.
+3. Copy **ONLY** the 'Data' folder. **DO NOT COPY THE 'Survival' FOLDER**
 
 4. Go to your steam library and right click on Scrap Mechanic -> Manage -> Browse Local Files
 
